@@ -1,0 +1,35 @@
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\bin\Debug\net5.0\ECommerceAPI.Entities.deps.json
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\bin\Debug\net5.0\ECommerceAPI.Entities.dll
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\bin\Debug\net5.0\ref\ECommerceAPI.Entities.dll
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\bin\Debug\net5.0\ECommerceAPI.Entities.pdb
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.csproj.AssemblyReference.cache
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.AssemblyInfo.cs
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.dll
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ref\ECommerceAPI.Entities.dll
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.pdb
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\bin\Debug\net5.0\ECommerceAPI.Entities.deps.json
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\bin\Debug\net5.0\ECommerceAPI.Entities.dll
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\bin\Debug\net5.0\ref\ECommerceAPI.Entities.dll
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\bin\Debug\net5.0\ECommerceAPI.Entities.pdb
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.csproj.AssemblyReference.cache
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.AssemblyInfo.cs
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.dll
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ref\ECommerceAPI.Entities.dll
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.pdb
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.Entities\bin\Debug\net5.0\ECommerceAPI.Entities.deps.json
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.Entities\bin\Debug\net5.0\ECommerceAPI.Entities.dll
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.Entities\bin\Debug\net5.0\ref\ECommerceAPI.Entities.dll
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.Entities\bin\Debug\net5.0\ECommerceAPI.Entities.pdb
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.AssemblyInfo.cs
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.dll
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ref\ECommerceAPI.Entities.dll
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.Entities\obj\Debug\net5.0\ECommerceAPI.Entities.pdb

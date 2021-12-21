@@ -1,0 +1,45 @@
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ECommerceAPI.DataAcces.deps.json
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ECommerceAPI.DataAcces.dll
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ref\ECommerceAPI.DataAcces.dll
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ECommerceAPI.DataAcces.pdb
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ECommerceAPI.Entities.dll
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ECommerceAPI.Entities.pdb
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.csproj.AssemblyReference.cache
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.AssemblyInfoInputs.cache
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.AssemblyInfo.cs
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.csproj.CopyComplete
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.dll
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ref\ECommerceAPI.DataAcces.dll
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.pdb
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ECommerceAPI.DataAcces.deps.json
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ECommerceAPI.DataAcces.dll
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ref\ECommerceAPI.DataAcces.dll
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ECommerceAPI.DataAcces.pdb
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ECommerceAPI.Entities.dll
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ECommerceAPI.Entities.pdb
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.csproj.AssemblyReference.cache
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.AssemblyInfoInputs.cache
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.AssemblyInfo.cs
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.csproj.CopyComplete
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.dll
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ref\ECommerceAPI.DataAcces.dll
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.pdb
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ECommerceAPI.DataAcces.deps.json
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ECommerceAPI.DataAcces.dll
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ref\ECommerceAPI.DataAcces.dll
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ECommerceAPI.DataAcces.pdb
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ECommerceAPI.Entities.dll
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.DataAcces\bin\Debug\net5.0\ECommerceAPI.Entities.pdb
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.csproj.AssemblyReference.cache
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.AssemblyInfoInputs.cache
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.AssemblyInfo.cs
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.csproj.CopyComplete
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.dll
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ref\ECommerceAPI.DataAcces.dll
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommerceAPI.DataAcces\obj\Debug\net5.0\ECommerceAPI.DataAcces.pdb

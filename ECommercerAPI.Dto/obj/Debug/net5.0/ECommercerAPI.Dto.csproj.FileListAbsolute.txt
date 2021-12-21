@@ -1,0 +1,35 @@
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\bin\Debug\net5.0\ECommercerAPI.Dto.deps.json
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\bin\Debug\net5.0\ECommercerAPI.Dto.dll
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\bin\Debug\net5.0\ref\ECommercerAPI.Dto.dll
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\bin\Debug\net5.0\ECommercerAPI.Dto.pdb
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.csproj.AssemblyReference.cache
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.AssemblyInfoInputs.cache
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.AssemblyInfo.cs
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.csproj.CoreCompileInputs.cache
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.dll
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ref\ECommercerAPI.Dto.dll
+C:\Users\maty_\Desktop\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.pdb
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\bin\Debug\net5.0\ECommercerAPI.Dto.deps.json
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\bin\Debug\net5.0\ECommercerAPI.Dto.dll
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\bin\Debug\net5.0\ref\ECommercerAPI.Dto.dll
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\bin\Debug\net5.0\ECommercerAPI.Dto.pdb
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.AssemblyInfoInputs.cache
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.AssemblyInfo.cs
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.csproj.CoreCompileInputs.cache
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.dll
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ref\ECommercerAPI.Dto.dll
+C:\Users\maty_\Desktop\Curso Full Stack\Entrega CursoFS.NET\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.pdb
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommercerAPI.Dto\bin\Debug\net5.0\ECommercerAPI.Dto.deps.json
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommercerAPI.Dto\bin\Debug\net5.0\ECommercerAPI.Dto.dll
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommercerAPI.Dto\bin\Debug\net5.0\ref\ECommercerAPI.Dto.dll
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommercerAPI.Dto\bin\Debug\net5.0\ECommercerAPI.Dto.pdb
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.AssemblyInfoInputs.cache
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.AssemblyInfo.cs
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.csproj.CoreCompileInputs.cache
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.dll
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ref\ECommercerAPI.Dto.dll
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.pdb
+C:\Users\maty_\Desktop\Prueba\E-Commerce API\ECommercerAPI.Dto\obj\Debug\net5.0\ECommercerAPI.Dto.csproj.AssemblyReference.cache
